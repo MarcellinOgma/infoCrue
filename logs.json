@@ -6009,6 +6009,54 @@
                 "type": "Feature",
                 "properties": {
                     "Date": "2024-10-25",
+                    "Heure": " 15:36:45 ",
+                    "Etat": " START    ",
+                    "Services": " ImporterFichiersPrevisions                    ",
+                    "Statut": " PID        ",
+                    "DureePub": " 5436 "
+                },
+                "geometry": null
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Date": "2024-10-25",
+                    "Heure": " 15:37:04 ",
+                    "Etat": " END      ",
+                    "Services": " ImporterFichiersPrevisions                    ",
+                    "Statut": " 0 : SUCCES ",
+                    "DureePub": " 0:00:18 "
+                },
+                "geometry": null
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Date": "2024-10-25",
+                    "Heure": " 15:37:08 ",
+                    "Etat": " START    ",
+                    "Services": " DetecterNouvellesPrevisionsMax                ",
+                    "Statut": " PID        ",
+                    "DureePub": " 8 "
+                },
+                "geometry": null
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Date": "2024-10-25",
+                    "Heure": " 15:37:09 ",
+                    "Etat": " END      ",
+                    "Services": " DetecterNouvellesPrevisionsMax                ",
+                    "Statut": " 999 : PAS DE NOUVELLE DONNEES ",
+                    "DureePub": " 0:00:01 "
+                },
+                "geometry": null
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Date": "2024-10-25",
                     "Heure": "06:06:48",
                     "Etat": " START    ",
                     "Services": " ImporterFichiersPrevisions                    ",
@@ -11998,6 +12046,54 @@
                 "properties": {
                     "Date": "2024-10-25",
                     "Heure": "15:22:12",
+                    "Etat": " END      ",
+                    "Services": " DetecterNouvellesPrevisionsMax                ",
+                    "Statut": " 999 : PAS DE NOUVELLE DONNEES ",
+                    "DureePub": " 0:00:01 "
+                },
+                "geometry": null
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Date": "2024-10-25",
+                    "Heure": "15:36:45",
+                    "Etat": " START    ",
+                    "Services": " ImporterFichiersPrevisions                    ",
+                    "Statut": " PID        ",
+                    "DureePub": " 5436 "
+                },
+                "geometry": null
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Date": "2024-10-25",
+                    "Heure": "15:37:04",
+                    "Etat": " END      ",
+                    "Services": " ImporterFichiersPrevisions                    ",
+                    "Statut": " 0 : SUCCES ",
+                    "DureePub": " 0:00:18 "
+                },
+                "geometry": null
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Date": "2024-10-25",
+                    "Heure": "15:37:08",
+                    "Etat": " START    ",
+                    "Services": " DetecterNouvellesPrevisionsMax                ",
+                    "Statut": " PID        ",
+                    "DureePub": " 8 "
+                },
+                "geometry": null
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "Date": "2024-10-25",
+                    "Heure": "15:37:09",
                     "Etat": " END      ",
                     "Services": " DetecterNouvellesPrevisionsMax                ",
                     "Statut": " 999 : PAS DE NOUVELLE DONNEES ",
